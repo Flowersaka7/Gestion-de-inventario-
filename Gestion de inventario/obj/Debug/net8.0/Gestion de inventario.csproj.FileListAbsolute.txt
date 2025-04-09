@@ -1,0 +1,15 @@
+D:\programa prueba 2025\Gestion de inventario\Gestion de inventario\bin\Debug\net8.0\Gestion de inventario.exe
+D:\programa prueba 2025\Gestion de inventario\Gestion de inventario\bin\Debug\net8.0\Gestion de inventario.deps.json
+D:\programa prueba 2025\Gestion de inventario\Gestion de inventario\bin\Debug\net8.0\Gestion de inventario.runtimeconfig.json
+D:\programa prueba 2025\Gestion de inventario\Gestion de inventario\bin\Debug\net8.0\Gestion de inventario.dll
+D:\programa prueba 2025\Gestion de inventario\Gestion de inventario\bin\Debug\net8.0\Gestion de inventario.pdb
+D:\programa prueba 2025\Gestion de inventario\Gestion de inventario\obj\Debug\net8.0\Gestion de inventario.GeneratedMSBuildEditorConfig.editorconfig
+D:\programa prueba 2025\Gestion de inventario\Gestion de inventario\obj\Debug\net8.0\Gestion de inventario.AssemblyInfoInputs.cache
+D:\programa prueba 2025\Gestion de inventario\Gestion de inventario\obj\Debug\net8.0\Gestion de inventario.AssemblyInfo.cs
+D:\programa prueba 2025\Gestion de inventario\Gestion de inventario\obj\Debug\net8.0\Gestion de inventario.csproj.CoreCompileInputs.cache
+D:\programa prueba 2025\Gestion de inventario\Gestion de inventario\obj\Debug\net8.0\Gestion de inventario.sourcelink.json
+D:\programa prueba 2025\Gestion de inventario\Gestion de inventario\obj\Debug\net8.0\Gestion de inventario.dll
+D:\programa prueba 2025\Gestion de inventario\Gestion de inventario\obj\Debug\net8.0\refint\Gestion de inventario.dll
+D:\programa prueba 2025\Gestion de inventario\Gestion de inventario\obj\Debug\net8.0\Gestion de inventario.pdb
+D:\programa prueba 2025\Gestion de inventario\Gestion de inventario\obj\Debug\net8.0\Gestion de inventario.genruntimeconfig.cache
+D:\programa prueba 2025\Gestion de inventario\Gestion de inventario\obj\Debug\net8.0\ref\Gestion de inventario.dll
